@@ -1,0 +1,161 @@
+<html>
+  <head>
+    <title>уже очень поздно, но я делаю дз</title>
+  </head>
+  <body>
+    <dif style="position:fixed;
+ top:400;
+left:0px;
+width:1100px;
+height:100px;
+background-color:#006400;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(0,0,0,0,5);">
+  </dif>
+  <dif style="position:fixed;
+ top:30px;
+left:900px;
+width:100px;
+height:100px;
+background-color:#ffff00;
+z-index:10;
+border-radius:100%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
+  </dif>
+   <dif style="position:fixed;
+ top:200px;
+left:400px;
+width:200px;
+height:200px;
+background-color:#a0522d;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
+  </dif>
+
+    <dif style="position:fixed;
+ top:100px;
+left:400px;
+width:200px;
+height:100px;
+background-color:#ff82ef;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+  </dif>
+
+   <dif style="position:fixed;
+ top:50px;
+left:100px;
+width:200px;
+height:100px;
+background-color:#0000ff;
+z-index:10;
+border-radius:100%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+  </dif>
+  <dif style="position:fixed;
+ top:1px;
+left:400px;
+width:200px;
+height:90px;
+background-color:#0000ff;
+z-index:10;
+border-radius:100%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+  </dif>
+  <dif style="position:fixed;
+ top:1px;
+left:700px;
+width:200px;
+height:100px;
+background-color:#0000ff;
+z-index:10;
+border-radius:100%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+  </dif>
+
+   <dif style="position:fixed;
+ top:250px;
+left:459px;
+width:80px;
+height:80px;
+background-color:#b3ecff;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+</dif>
+
+  <dif style="position:fixed;
+ top:294px;
+left:492px;
+width:20px;
+height:40px;
+background-color:#8b4513;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+</dif>
+
+  <dif style="position:fixed;
+ top:276px;
+left:459px;
+width:80px;
+height:20px;
+background-color:#8b4513;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+</dif>
+   
+
+ <dif style="position:fixed;
+ top:300px;
+left:700px;
+width:200px;
+height:100px;
+background-color:#ff0000;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+</dif>
+  
+
+ </dif>
+  <dif style="position:fixed;
+ top:360px;
+left:810px;
+width:80px;
+height:80px;
+background-color:#808080;
+z-index:10;
+border-radius:80%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+  </dif>
+   
+
+
+  </dif>
+  <dif style="position:fixed;
+ top:360px;
+left:700px;
+width:80px;
+height:80px;
+background-color:#808080;
+z-index:10;
+border-radius:80%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);
+;">
+  </dif>
+  </body>
+</html>
