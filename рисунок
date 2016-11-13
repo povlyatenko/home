@@ -42,8 +42,7 @@ height:100px;
 background-color:#ff82ef;
 z-index:10;
 border-radius:1%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
   </dif>
 
    <dif style="position:fixed;
@@ -54,8 +53,7 @@ height:100px;
 background-color:#0000ff;
 z-index:10;
 border-radius:100%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
   </dif>
   <dif style="position:fixed;
  top:1px;
@@ -65,8 +63,7 @@ height:90px;
 background-color:#0000ff;
 z-index:10;
 border-radius:100%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
   </dif>
   <dif style="position:fixed;
  top:1px;
@@ -76,8 +73,7 @@ height:100px;
 background-color:#0000ff;
 z-index:10;
 border-radius:100%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
   </dif>
 
    <dif style="position:fixed;
@@ -88,8 +84,7 @@ height:80px;
 background-color:#b3ecff;
 z-index:10;
 border-radius:1%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
 </dif>
 
   <dif style="position:fixed;
@@ -100,8 +95,7 @@ height:40px;
 background-color:#8b4513;
 z-index:10;
 border-radius:1%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
 </dif>
 
   <dif style="position:fixed;
@@ -112,8 +106,7 @@ height:20px;
 background-color:#8b4513;
 z-index:10;
 border-radius:1%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
 </dif>
    
 
@@ -125,12 +118,8 @@ height:100px;
 background-color:#ff0000;
 z-index:10;
 border-radius:1%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
 </dif>
-  
-
- </dif>
   <dif style="position:fixed;
  top:360px;
 left:810px;
@@ -139,13 +128,8 @@ height:80px;
 background-color:#808080;
 z-index:10;
 border-radius:80%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
-  </dif>
-   
-
-
-  </dif>
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
+</dif>
   <dif style="position:fixed;
  top:360px;
 left:700px;
@@ -154,8 +138,7 @@ height:80px;
 background-color:#808080;
 z-index:10;
 border-radius:80%;
-box-shadow: 10 10 10px rgba(7,8,7,5,5);
-;">
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
   </dif>
   </body>
 </html>
