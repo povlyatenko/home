@@ -139,6 +139,26 @@ background-color:#808080;
 z-index:10;
 border-radius:80%;
 box-shadow: 10 10 10px rgba(7,8,7,5,5);">
+   <dif style="position:fixed;
+ top:80px;
+left:100px;
+width:200px;
+height:200px;
+background-color:#00ff00;
+z-index:10;
+border-radius:100%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
+  </dif>
+
+<dif style="position:fixed;
+ top:200px;
+left:190px;
+width:20px;
+height:200px;
+background-color:#8b4513;
+z-index:10;
+border-radius:1%;
+box-shadow: 10 10 10px rgba(7,8,7,5,5);">
   </dif>
   </body>
 </html>
